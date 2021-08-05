@@ -5,6 +5,8 @@ Links to some useful Youtube videos
 1.
 https://m.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ#menu
 
+2. 
+https://youtu.be/Bndkkt-xqls
 # Networks and Communications
 1. How Do I Find Out My Internet Service Provider
 
