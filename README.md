@@ -15,4 +15,9 @@ https://youtu.be/Bndkkt-xqls
 # Web Design 
 1. How To Make Social Media Website Profile Page Design Using HTML And CSS Step By Step
 
-   https://www.youtube.com/watch?v=RrWUAmh93r4&ab_channel=EasyTutorials    
+   https://www.youtube.com/watch?v=RrWUAmh93r4&ab_channel=EasyTutorials   
+
+# GitHub
+1. GitHub Copilot - Learn with Sumit
+  
+   https://youtu.be/2uQYzZAHy5I
