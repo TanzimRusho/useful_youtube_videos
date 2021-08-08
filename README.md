@@ -10,6 +10,15 @@ Links to some useful Youtube videos
 
    https://youtu.be/Bndkkt-xqls
     
+# Chrome Extension
+1. How To Make Chrome Extensions
+
+   https://www.youtube.com/watch?v=Ipa58NVGs_c&ab_channel=KyleRobinsonYoung
+  
+2. Build & Publish a Custom Google Chrome Extension
+
+   https://www.youtube.com/watch?v=wHZCYi1K664&ab_channel=TraversyMedia
+    
 # Networks and Communications
 1. How Do I Find Out My Internet Service Provider
 
