@@ -9,6 +9,11 @@ Links to some useful Youtube videos
 2. Mastering C++ STL || Indian Programming Camp 2020 - Beginner Track || Sanket Singh
 
    https://youtu.be/Bndkkt-xqls
+   
+# Competitive Programming
+1. Time Limit Exceeded - How To Avoid TLE? 
+
+   https://www.youtube.com/watch?v=S8V444xdNvM
     
 # Chrome Extension
 1. How To Make Chrome Extensions
