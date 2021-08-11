@@ -10,6 +10,11 @@ Links to some useful Youtube videos
 
    https://youtu.be/Bndkkt-xqls
    
+# Algorithms and Data Structures
+1. Gerry Jenkins Channel
+
+   https://www.youtube.com/user/gjenkinslbcc
+   
 # Competitive Programming
 1. Time Limit Exceeded - How To Avoid TLE? 
 
