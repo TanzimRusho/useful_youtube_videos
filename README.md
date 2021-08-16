@@ -10,6 +10,8 @@ Links to some useful Youtube videos
 
    https://youtu.be/Bndkkt-xqls
    
+3. https://www.youtube.com/watch?v=W6NZfCO5SIk   
+   
 # Algorithms and Data Structures
 1. Gerry Jenkins Channel
 
