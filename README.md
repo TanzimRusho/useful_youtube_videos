@@ -7,7 +7,16 @@ Links to some useful Youtube videos
 2. [Mastering C++ STL || Indian Programming Camp 2020 - Beginner Track || Sanket Singh](https://youtu.be/Bndkkt-xqls)
    
 3. [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk)   
-   
+
+# JavaScript Learning Path - Learn with Sumit (in Bangla)
+1. [JavaScript for Beginners](https://youtube.com/playlist?list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy)
+
+2. [Play with DOM](https://youtube.com/playlist?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_)
+
+3. [Think in a JavaScript Way](https://youtube.com/playlist?list=PLHiZ4m8vCp9Nflbo9a0pZuLscG_Xc7DKq)
+
+4. [Modern JavaScript Syntaxes](https://youtube.com/playlist?list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG)
+
 # Algorithms and Data Structures
 1. [Gerry Jenkins Channel](https://www.youtube.com/user/gjenkinslbcc)
    
