@@ -37,5 +37,8 @@ Links to some useful Youtube videos
 # GitHub
 1. [GitHub Copilot - Learn with Sumit](https://youtu.be/2uQYzZAHy5I)
 
+# Coding Interview
+1. [Life at Google Channel](https://youtube.com/c/LifeatGoogle)
+
 # Career Path
 1. [Software Engineering Career Advice by Sumit Saha](https://www.youtube.com/watch?v=GNB-lK_cAXo&list=WL&index=14)
