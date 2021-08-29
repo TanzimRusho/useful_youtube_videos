@@ -39,6 +39,8 @@ Links to some useful Youtube videos
 
 # GitHub
 1. [GitHub Copilot - Learn with Sumit](https://youtu.be/2uQYzZAHy5I)
+2. [Basic git commands everyone should know about](https://youtu.be/kyL71RoNcCo)
+
 
 # Coding Interview
 1. [Life at Google Channel](https://youtube.com/c/LifeatGoogle)
