@@ -17,6 +17,9 @@ Links to some useful Youtube videos
 
 4. [Modern JavaScript Syntaxes](https://youtube.com/playlist?list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG)
 
+# Machine Learning
+1. [Machine Learning Course for Beginners](https://youtu.be/NWONeJKn6kc)
+
 # Algorithms and Data Structures
 1. [Gerry Jenkins Channel](https://www.youtube.com/user/gjenkinslbcc)
    
