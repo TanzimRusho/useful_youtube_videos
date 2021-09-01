@@ -19,6 +19,7 @@ Links to some useful Youtube videos
 
 # Machine Learning
 1. [Machine Learning Course for Beginners](https://youtu.be/NWONeJKn6kc)
+2. [Implementing Commonly Used Machine Learning Algorithms using Scikit-Learn (2021)](https://youtu.be/nkP6mxB77e4)
 
 # Algorithms and Data Structures
 1. [Gerry Jenkins Channel](https://www.youtube.com/user/gjenkinslbcc)
