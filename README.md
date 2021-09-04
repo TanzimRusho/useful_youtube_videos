@@ -37,6 +37,7 @@ Links to some useful Youtube videos
     
 # Web Design 
 1. [How To Make Social Media Website Profile Page Design Using HTML And CSS Step By Step](https://www.youtube.com/watch?v=RrWUAmh93r4&ab_channel=EasyTutorials)   
+2. [Web Scraping using Python](https://youtu.be/gRLHr664tXA)
 
 # DevOps
 1. [Career Opportunities as DevOps Engineer - Talk with Sumit Episode 8 (Bangla)](https://www.youtube.com/watch?v=JoXOwPPK-aM)
