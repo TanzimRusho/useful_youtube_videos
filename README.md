@@ -51,6 +51,9 @@ Links to some useful Youtube videos
 # Computer Architecture
 1. [Hard Disk Drive - 1 | Platter | Track | Cylinder | Sector | Cluster | Read-Write Head | Spindle |](https://www.youtube.com/watch?v=oEORcCQ62nQ)
 
+# Hardware
+1. [How do smartphone CPUs work?](https://youtu.be/NKfW8ijmRQ4)
+
 # Coding Interview
 1. [Life at Google Channel](https://youtube.com/c/LifeatGoogle)
 
