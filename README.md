@@ -48,6 +48,9 @@ Links to some useful Youtube videos
 1. [GitHub Copilot - Learn with Sumit](https://youtu.be/2uQYzZAHy5I)
 2. [Basic git commands everyone should know about](https://youtu.be/kyL71RoNcCo)
 
+# Computer Architecture
+1. [Hard Disk Drive - 1 | Platter | Track | Cylinder | Sector | Cluster | Read-Write Head | Spindle |](https://www.youtube.com/watch?v=oEORcCQ62nQ)
+
 # Coding Interview
 1. [Life at Google Channel](https://youtube.com/c/LifeatGoogle)
 
