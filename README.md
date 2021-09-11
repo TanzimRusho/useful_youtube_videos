@@ -56,6 +56,7 @@ Links to some useful Youtube videos
 
 # Hardware
 1. [How do smartphone CPUs work?](https://youtu.be/NKfW8ijmRQ4)
+2. [How does SSD work?](https://youtu.be/5Mh3o886qpg)
 
 # Coding Interview
 1. [Life at Google Channel](https://youtube.com/c/LifeatGoogle)
