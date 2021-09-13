@@ -17,6 +17,9 @@ Links to some useful Youtube videos
 
 4. [Modern JavaScript Syntaxes](https://youtube.com/playlist?list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG)
 
+# Python
+1. [Make A Python Website As Fast As Possible](https://youtu.be/kng-mJJby8g)
+
 # Machine Learning
 1. [Machine Learning Course for Beginners](https://youtu.be/NWONeJKn6kc)
 
