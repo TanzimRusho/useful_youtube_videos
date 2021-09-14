@@ -27,6 +27,8 @@ Links to some useful Youtube videos
 
 3. [Machine Learning Full Course - Learn Machine Learning 10 Hours](https://www.youtube.com/watch?v=GwIo3gDZCVQ)
 
+4. [Machine Learning Projects](https://m.youtube.com/playlist?list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6)
+
 # Algorithms and Data Structures
 1. [Gerry Jenkins Channel](https://www.youtube.com/user/gjenkinslbcc)
    
