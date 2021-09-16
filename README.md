@@ -73,3 +73,6 @@ Links to some useful Youtube videos
 
 # Career Path
 1. [Software Engineering Career Advice by Sumit Saha](https://www.youtube.com/watch?v=GNB-lK_cAXo&list=WL&index=14)
+
+# Excel
+1. [PoS in Excel](https://youtu.be/C-jw10s8esw)
