@@ -31,6 +31,8 @@ Links to some useful Youtube videos
 
 5. [Andrew NG ML Lecture 1: Stanford](https://youtu.be/jGwO_UgTS7I)
 
+6. [Anand Avati ML Lecture 1: Stanford](https://youtu.be/KzH1ovd4Ots)
+
 # Algorithms and Data Structures
 1. [Gerry Jenkins Channel](https://www.youtube.com/user/gjenkinslbcc)
    
