@@ -33,6 +33,9 @@ Links to some useful Youtube videos
 
 6. [Anand Avati ML Lecture 1: Stanford](https://youtu.be/KzH1ovd4Ots)
 
+# Deep Learning
+1. [Introduction to Deep Learning (Alexander Amini) | MIT](https://youtu.be/5tvmMX8r_OM)
+
 # Algorithms and Data Structures
 1. [Gerry Jenkins Channel](https://www.youtube.com/user/gjenkinslbcc)
    
