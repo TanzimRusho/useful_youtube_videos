@@ -29,6 +29,8 @@ Links to some useful Youtube videos
 
 4. [Machine Learning Projects](https://m.youtube.com/playlist?list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6)
 
+5. [Andrew NG ML Lecture 1: Stanford](https://youtu.be/jGwO_UgTS7I)
+
 # Algorithms and Data Structures
 1. [Gerry Jenkins Channel](https://www.youtube.com/user/gjenkinslbcc)
    
