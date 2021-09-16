@@ -67,6 +67,7 @@ Links to some useful Youtube videos
 
 # Coding Interview
 1. [Life at Google Channel](https://youtube.com/c/LifeatGoogle)
+2. [5 Problem Solving Tricks for Cracking Coding Interview Questions](https://youtu.be/GBuHSRDGZBY)
 
 # Career Path
 1. [Software Engineering Career Advice by Sumit Saha](https://www.youtube.com/watch?v=GNB-lK_cAXo&list=WL&index=14)
