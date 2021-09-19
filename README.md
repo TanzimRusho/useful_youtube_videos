@@ -48,24 +48,25 @@ Links to some useful Youtube videos
 2. [Build & Publish a Custom Google Chrome Extension](https://www.youtube.com/watch?v=wHZCYi1K664&ab_channel=TraversyMedia)
     
 # Networks and Communications
-1. [How Do I Find Out My Internet Service Provider](https://www.youtube.com/watch?v=kNNc0Tfz7Rs&ab_channel=InternetServicesandSocialNetworksTutorialsfromHowTech)
+* [How Do I Find Out My Internet Service Provider](https://www.youtube.com/watch?v=kNNc0Tfz7Rs&ab_channel=InternetServicesandSocialNetworksTutorialsfromHowTech)
     
 # Web Design 
-1. [How To Make Social Media Website Profile Page Design Using HTML And CSS Step By Step](https://www.youtube.com/watch?v=RrWUAmh93r4&ab_channel=EasyTutorials)   
+* [How To Make Social Media Website Profile Page Design Using HTML And CSS Step By Step](https://www.youtube.com/watch?v=RrWUAmh93r4&ab_channel=EasyTutorials)   
 
 # Web Scraping
-1. [Web Scraping using Python](https://youtu.be/gRLHr664tXA)
+* [Web Scraping using Python](https://youtu.be/gRLHr664tXA)
 
 # DevOps
-1. [Career Opportunities as DevOps Engineer - Talk with Sumit Episode 8 (Bangla)](https://www.youtube.com/watch?v=JoXOwPPK-aM)
+* [Career Opportunities as DevOps Engineer - Talk with Sumit Episode 8 (Bangla)](https://www.youtube.com/watch?v=JoXOwPPK-aM)
 
-# GitHub
+# Git/GitHub
 * [GitHub Copilot - Learn with Sumit](https://youtu.be/2uQYzZAHy5I)
 * [Basic git commands everyone should know about](https://youtu.be/kyL71RoNcCo)
 * [Crash Course - সহজ বাংলায় Git & GitHub - Bangla ( বাংলা ) Tutorial](https://www.youtube.com/watch?v=oe21Nlq8GS4&t=182s)
+* [Git Bangla Tutorial Complete](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDDw5eyzuRDXBzgdnW7UpDF)
 
 # Computer Architecture
-1. [Hard Disk Drive - 1 | Platter | Track | Cylinder | Sector | Cluster | Read-Write Head | Spindle |](https://www.youtube.com/watch?v=oEORcCQ62nQ)
+* [Hard Disk Drive - 1 | Platter | Track | Cylinder | Sector | Cluster | Read-Write Head | Spindle |](https://www.youtube.com/watch?v=oEORcCQ62nQ)
 
 # Hardware
 1. [How do smartphone CPUs work?](https://youtu.be/NKfW8ijmRQ4)
