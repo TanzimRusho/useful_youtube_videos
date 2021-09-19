@@ -60,8 +60,9 @@ Links to some useful Youtube videos
 1. [Career Opportunities as DevOps Engineer - Talk with Sumit Episode 8 (Bangla)](https://www.youtube.com/watch?v=JoXOwPPK-aM)
 
 # GitHub
-1. [GitHub Copilot - Learn with Sumit](https://youtu.be/2uQYzZAHy5I)
-2. [Basic git commands everyone should know about](https://youtu.be/kyL71RoNcCo)
+* [GitHub Copilot - Learn with Sumit](https://youtu.be/2uQYzZAHy5I)
+* [Basic git commands everyone should know about](https://youtu.be/kyL71RoNcCo)
+* [Crash Course - সহজ বাংলায় Git & GitHub - Bangla ( বাংলা ) Tutorial](https://www.youtube.com/watch?v=oe21Nlq8GS4&t=182s)
 
 # Computer Architecture
 1. [Hard Disk Drive - 1 | Platter | Track | Cylinder | Sector | Cluster | Read-Write Head | Spindle |](https://www.youtube.com/watch?v=oEORcCQ62nQ)
