@@ -17,6 +17,9 @@ Links to some useful Youtube videos
 # Python
 * [Make A Python Website As Fast As Possible](https://youtu.be/kng-mJJby8g)
 
+# Automation with Python
+* [Automation With Python - Tutorial](https://youtu.be/s8XjEuplx_U)
+
 # Data Science
 * [Keith Galli | Data Science Playlist](https://www.youtube.com/playlist?list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp)
 
