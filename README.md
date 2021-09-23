@@ -1,7 +1,7 @@
 # Useful Video Links from Youtube
 Links to some useful Youtube videos
 
-## JavaScript Learning Path - Learn with Sumit (in Bangla)
+## JavaScript
 * [JavaScript for Beginners](https://youtube.com/playlist?list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy)
 * [Play with DOM](https://youtube.com/playlist?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_)
 * [Think in a JavaScript Way](https://youtube.com/playlist?list=PLHiZ4m8vCp9Nflbo9a0pZuLscG_Xc7DKq)
