@@ -20,7 +20,10 @@ Links to some useful Youtube videos
 ## Chrome Extension
 * [How To Make Chrome Extensions](https://www.youtube.com/watch?v=Ipa58NVGs_c&ab_channel=KyleRobinsonYoung)
 * [Build & Publish a Custom Google Chrome Extension](https://www.youtube.com/watch?v=wHZCYi1K664&ab_channel=TraversyMedia)
-    
+ 
+## Database Systems
+* [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://youtu.be/4cWkVbC2bNE)
+   
 ## Networks and Communications
 * [How Do I Find Out My Internet Service Provider](https://www.youtube.com/watch?v=kNNc0Tfz7Rs&ab_channel=InternetServicesandSocialNetworksTutorialsfromHowTech)
     
