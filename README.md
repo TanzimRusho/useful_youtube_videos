@@ -1,16 +1,12 @@
 # Useful Video Links from Youtube
 Links to some useful Youtube videos
 
-## Programming Languages 
-* [freeCodeCamp.org youtube channel](https://youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ#menu)
-* [Mastering C++ STL || Indian Programming Camp 2020 - Beginner Track || Sanket Singh](https://youtu.be/Bndkkt-xqls)
-* [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk)   
-
 ## JavaScript Learning Path - Learn with Sumit (in Bangla)
 * [JavaScript for Beginners](https://youtube.com/playlist?list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy)
 * [Play with DOM](https://youtube.com/playlist?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_)
 * [Think in a JavaScript Way](https://youtube.com/playlist?list=PLHiZ4m8vCp9Nflbo9a0pZuLscG_Xc7DKq)
 * [Modern JavaScript Syntaxes](https://youtube.com/playlist?list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG)
+* [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk)   
 
 ## Python
 * [Make A Python Website As Fast As Possible](https://youtu.be/kng-mJJby8g)
@@ -20,29 +16,6 @@ Links to some useful Youtube videos
 
 ## API Development
 * [APIs for Beginners | freeCodeCamp.org](https://youtu.be/GZvSYJDk-us)
-
-## Automation with Python
-* [Automation With Python - Tutorial](https://youtu.be/s8XjEuplx_U)
-
-## Data Science
-* [Keith Galli | Data Science Playlist](https://www.youtube.com/playlist?list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp)
-
-## Machine Learning
-* [Machine Learning Course for Beginners](https://youtu.be/NWONeJKn6kc)
-* [Implementing Commonly Used Machine Learning Algorithms using Scikit-Learn (2021)](https://youtu.be/nkP6mxB77e4)
-* [Machine Learning Full Course - Learn Machine Learning 10 Hours](https://www.youtube.com/watch?v=GwIo3gDZCVQ)
-* [Machine Learning Projects](https://m.youtube.com/playlist?list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6)
-* [Andrew NG ML Lecture 1: Stanford](https://youtu.be/jGwO_UgTS7I)
-* [Anand Avati ML Lecture 1: Stanford](https://youtu.be/KzH1ovd4Ots)
-
-## Deep Learning
-* [Introduction to Deep Learning (Alexander Amini) | MIT](https://youtu.be/5tvmMX8r_OM)
-
-## Algorithms and Data Structures
-* [Gerry Jenkins Channel](https://www.youtube.com/user/gjenkinslbcc)
-   
-## Competitive Programming
-* [Time Limit Exceeded - How To Avoid TLE?](https://www.youtube.com/watch?v=S8V444xdNvM)
     
 ## Chrome Extension
 * [How To Make Chrome Extensions](https://www.youtube.com/watch?v=Ipa58NVGs_c&ab_channel=KyleRobinsonYoung)
@@ -53,9 +26,6 @@ Links to some useful Youtube videos
     
 ## Web Design 
 * [How To Make Social Media Website Profile Page Design Using HTML And CSS Step By Step](https://www.youtube.com/watch?v=RrWUAmh93r4&ab_channel=EasyTutorials)   
-
-## Web Scraping
-* [Web Scraping using Python](https://youtu.be/gRLHr664tXA)
 
 ## DevOps
 * [Career Opportunities as DevOps Engineer - Talk with Sumit Episode 8 (Bangla)](https://www.youtube.com/watch?v=JoXOwPPK-aM)
